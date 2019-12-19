@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Models\Seccion.Model.csproj" />
+    <ProjectReference Include="..\Seccion.Model\Seccion.Model.csproj" />
   </ItemGroup>
 
 </Project>

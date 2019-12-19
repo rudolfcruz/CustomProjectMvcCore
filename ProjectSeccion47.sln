@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Seccion.Model", "Models\Seccion.Model.csproj", "{8129E5AC-0762-4B7E-A73A-4C31572F5C3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Seccion.Model", "Seccion.Model\Seccion.Model.csproj", "{8129E5AC-0762-4B7E-A73A-4C31572F5C3E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Seccion.Data", "Seccion.Data\Seccion.Data.csproj", "{86FD96E4-5F7E-4690-8609-84AA96AB3EFE}"
 EndProject
